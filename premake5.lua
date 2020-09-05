@@ -1,4 +1,4 @@
-Project "ImGui"
+project "ImGui"
 	kind "StaticLib"
 	language "C++"
 
